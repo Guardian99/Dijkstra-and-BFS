@@ -1,11 +1,11 @@
 #KANISHK RANA
-#2017241
+
 #Assignment-2, Game Tic-tac-toe
 
 #SOURCE OF STRATEGY 
 #WHEN PLAYED AGAINST GOOGLE'S VERSION OF TIC TAC TOE considering the fact that for a program all the corners & the edges hold equal weightage . Hence playing in its impossible mode is quivalent of playing a game of intelligent vs intelligent and thus the cases are made in such a way that forces a draw
 #Playing in an easy mode is equivalent to playing a game between an intelligent vs Naive and thus the first set of test cases are defined as such
-#PLAYING GAMES WITH GOOGLE HELPED ME DESIGN MY STRATEGY FOR THIS GAME a picture to is hereby attached to show all the possible reactions of google's code to a particular move
+#PLAYING GAMES WITH GOOGLE HELPED ME DESIGN MY STRATEGY FOR THIS GAME 
 
 #State: Tiles are numbered 1 to 9
 
