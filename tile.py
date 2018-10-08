@@ -7,16 +7,16 @@ tile6= 0
 tile7= 0
 tile8= 0
 tile9= 0
+#Starting State of all the tiles of a tic tac toe board
 
 p1win=0
 p2win=0
 j=0
 
 turn=1
-
+#Starting Player is player 1
 move=0
-
-
 
 player1=1
 player2=2
+#Identifying players with a number
